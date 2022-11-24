@@ -1,0 +1,1 @@
+se corrigen los bugs de los arreglos
